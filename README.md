@@ -2,6 +2,10 @@
 
 WPF IMultiValueConverter for Xamarin.Forms
 
+
+![Capture](https://github.com/hsytkm/XFMultiValueConverter/blob/master/capture.gif)
+
+
 ## Reference
 
 [What's the equivilent to WPF's IMultiValueConverter](https://forums.xamarin.com/discussion/64727/whats-the-equivilent-to-wpfs-imultivalueconverter)
@@ -10,3 +14,4 @@ WPF IMultiValueConverter for Xamarin.Forms
 
 [Github: Keboo / Xamarin.Forms.Proxy](https://github.com/Keboo/Xamarin.Forms.Proxy)
 
+à»è„
