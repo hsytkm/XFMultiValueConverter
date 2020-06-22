@@ -1,8 +1,8 @@
+**Officially introduced from Xamarin.Forms4.7.**
+
 ## What is this
 
 WPF IMultiValueConverter for Xamarin.Forms
-
-**Officially introduced from Xamarin.Forms4.7.**
 
 
 ![Capture](https://github.com/hsytkm/XFMultiValueConverter/blob/master/capture.gif)
@@ -16,6 +16,6 @@ WPF IMultiValueConverter for Xamarin.Forms
 
 [Github: Keboo / Xamarin.Forms.Proxy](https://github.com/Keboo/Xamarin.Forms.Proxy)
 
-[Xamarin.Forms Multi-Bindings]https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/multibinding)
+[Xamarin.Forms Multi-Bindings](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/data-binding/multibinding)
 
 以上
